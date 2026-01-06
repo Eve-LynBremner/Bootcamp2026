@@ -1,1 +1,3 @@
-### Practice adding, committing, and pushing files to repo
+## W1-S1-github-vscode
+### 2_GitHubWorkflow
+#### Challenge: Create a new repository on GitHub, clone it to your local machine, add a Markdown file, then commit and push your changes back to the GitHub repository

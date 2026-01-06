@@ -1,3 +1,3 @@
 ## W1-S1-github-vscode
-### 2_GitHubWorkflow
-#### Challenge: Create a new repository on GitHub, clone it to your local machine, add a Markdown file, then commit and push your changes back to the GitHub repository
+### 3_VSCodeGitHub
+#### Challenge: Modify a README.md file in your local repository using VSCode, stage the changes, commit them, and push them to your remote GitHub repository. This exercise is designed to help you get comfortable with using Visual Studio Code (VSCode) alongside GitHub
